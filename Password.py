@@ -1,3 +1,4 @@
+```python
 import random
 
 def password(pw_len=8):
@@ -12,4 +13,4 @@ def password(pw_len=8):
 
 if __name__ == '__main__':
     print(password())
-    
+```
