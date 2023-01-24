@@ -1,3 +1,5 @@
+## a simple password generator
+
 ```python
 import random
 
